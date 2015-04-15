@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service Boxes Widgets Text Icon\n"
+POT-Creation-Date: 2015-04-02 19:47+0700
+PO-Revision-Date: 2013-04-02 19:50+0700
+"Last-Translator: \n"
+"Language-Team:  <m.manik01@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../service-boxes-widgets-text-icon.php:56
+msgid "Displays icon from FontAwesome before widget title."
+msgstr ""
+
+#: ../service-boxes-widgets-text-icon.php:65
+msgid "Service Boxes Widgets Text Icon"
+msgstr ""
+
+#: ../service-boxes-widgets-text-icon.php:85
+msgid "Title"
+msgstr ""
+
+#: ../service-boxes-widgets-text-icon.php:88
+msgid "Choose Icon"
+msgstr ""
+
+#: ../service-boxes-widgets-text-icon.php:90
+msgid "Select positions"
+msgstr ""
+
+#: ../service-boxes-widgets-text-icon.php:96
+msgid "Size"
+msgstr ""
+
+#: ../service-boxes-widgets-text-icon.php:108
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: ../service-boxes-widgets-text-icon.php:209
+msgid "- Select Icon -"
+msgstr ""
