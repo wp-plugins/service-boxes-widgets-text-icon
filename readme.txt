@@ -22,7 +22,7 @@
         Author URI: http://bdwebteam.com
         Support Email: m.manik01@gmail.com 
     
-    = Installation =
+    == Installation ==
     
     * Install and Activate *
     
@@ -30,12 +30,12 @@
         2. Upload the `service-boxes-widgets-text-icon` folder and its contents into the `wp-content/plugins/` directory of your WordPress installation
         3. Activate Service Boxs Widgets Text Icon from Plugins page
         
-    * Implement *
+    == Implement ==
     
         1. Go to the wp admin Widget page.
         2. Drag and drop "Service Boxes Widgets Text Icon" into active sidebar.
     
-    = Frequently Asked Questions =
+    == Frequently Asked Questions ==
     
         = Separate the icon array into function with filters 
         = [PHP Array link](https://gist.github.com/mhmanik/9b1466c67400657be22e) 
@@ -43,6 +43,6 @@
         = Copy and paste this [Link](https://gist.github.com/mhmanik/4196789058b6a0c7e7e2) and put it on your theme functions.
     
     
-    = Screenshots =
+    == Screenshots ==
         1. service-boxes-widgets-text-icon inteface and the display.
     
