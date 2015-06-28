@@ -3,7 +3,7 @@
     * Plugin Name: Service Boxes Widgets Text Icon
     * Plugin URI: http://plugin.bdwebteam.com/service-boxes-widgets-text-icon/
     * Description: Basically it just a WordPress "Service Boxes Text Widget" but with additional icon font selector based on <a href="http://fortawesome.github.io/Font-Awesome/">FontAwesome</a>. The Icon will display Top, bottom, Left, Right to widget title.
-    * Author:Md. Mahabub Hasan Manik
+    * Author: Mahabub Hasan
     * Author URI: http://bdwebteam.com/
     * Version: 1.0.1
     * Text Domain: service-Boxes-widgets-text-icon
@@ -15,7 +15,7 @@
 /**
    *
    * @package   Service_Boxes_Widget_Text_Icon
-   * @author    Md. Mahabub Masan Manik <bdwebteam@gmail.com>
+   * @author    Mahabub Masan <m.manik01@gmail.com>
    * @license   MIT License
    * @link      http://plugin.bdwebteam.com/service-boxes-widgets-text-icon/
    * @copyright 2015 Mahabub Hasan

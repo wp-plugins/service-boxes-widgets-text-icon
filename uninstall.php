@@ -3,7 +3,7 @@
    * Service Boxes Widgets Text Icon when the plugin is uninstalled.
    *
    * @package   service_boxes_widget_text_icon
-   * @author    Md. Mahabub Masan Manik <bdwebteam@gmail.com>
+   * @author    Mahabub Masan <m.manik01@gmail.com>
    * @license   MIT License
    * @link      http://bdwebteam.com/
    * @copyright 2015 Mahabub Hasan

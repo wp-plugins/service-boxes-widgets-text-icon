@@ -1,6 +1,6 @@
 === Service Boxes Widgets Text Icon ===
-Contributors: Md. Mahabub Hasan Manik 
-Tags: widget, icons, fontAwesome 
+Contributors: Mahabub Hasan
+Tags: widget, icons, fontAwesome,advanced recent posts, advanced recent posts widget, category, post-plugins, posts, recent, recent posts, recent posts widget, widget 
 Requires at least: 1.0.1
 Tested up to: 1.0.1
 Stable tag: 1.0.1
@@ -19,7 +19,7 @@ Service Boxes Widgets Text Icon will display Top, bottom, Left, Right for widget
 
    ** Credits ** 
 
-         Author: Md.Mahabub Hasan Manik
+         Author: Mahabub Hasan
      Author URI: http://bdwebteam.com
     Support Email: m.manik01@gmail.com
         
