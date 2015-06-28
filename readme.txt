@@ -42,6 +42,10 @@ Support Email: m.manik01@gmail.com
 = I already have FontAwesome loaded from my theme. I dont want to load another Fontawesome style 
 = Copy and paste this [Link](https://gist.github.com/mhmanik/4196789058b6a0c7e7e2) and put it on your theme functions.
 
+Recommended WordPress Plugins
+
+* [bdwebteam recent post tabs widget](https://wordpress.org/plugins/bdwebteam-recent-post-tabs-widget/)
+* [Responsive Posts Widget](https://wordpress.org/plugins/responsive-posts-widget/)
 
 == Screenshots ==
 1. service-boxes-widgets-text-icon inteface and the display.
