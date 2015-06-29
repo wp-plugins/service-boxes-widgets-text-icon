@@ -15,16 +15,16 @@ Basically it just a WordPress "Service Boxes Text Widget" but with additional ic
 Font Awesome is my favorite of the free font icon sets.All of the 220 pixel perfect icons,have great cross-browser support and are easy to use. 
 I wanted to be able to use the icons without having to rely on my current theme, so I created a simple WordPress widget Text plugin. 
 
-* Easy to configure CSS
+Easy to configure CSS
 
-* Credits *
+Credits
 
-Author URI: http://bdwebteam.com
-Support Email: m.manik01@gmail.com 
+* Author URI: http://bdwebteam.com
+* Support Email: m.manik01@gmail.com 
 
 == Installation ==
 
-* Install and Activate *
+Install and Activate
 
 1. Unzip the downloaded `service-boxs-widgets-text-icon` zip file
 2. Upload the `service-boxes-widgets-text-icon` folder and its contents into the `wp-content/plugins/` directory of your WordPress installation
